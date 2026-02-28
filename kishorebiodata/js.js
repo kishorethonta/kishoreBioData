@@ -1,5 +1,5 @@
 document.getElementById("showBtn").addEventListener("click", function () {
-  const details = document.getElementById("moredetails");
+  const details = document.getElementById("moreDetails");
 
   if (details.style.display === "none") {
     details.style.display = "block";
